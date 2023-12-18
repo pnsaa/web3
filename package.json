@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "md5": "^2.3.0"
+  }
+}
